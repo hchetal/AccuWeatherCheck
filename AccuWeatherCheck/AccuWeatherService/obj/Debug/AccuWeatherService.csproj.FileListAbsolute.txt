@@ -1,0 +1,8 @@
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\bin\AccuWeatherService.dll.config
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\bin\AccuWeatherService.dll
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\bin\AccuWeatherService.pdb
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\bin\EntityFramework.dll
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\bin\EntityFramework.xml
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\obj\Debug\AccuWeatherService.dll
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\obj\Debug\AccuWeatherService.pdb
+C:\MyLocalCodes\Angular\AccuWeatherCheck\AccuWeatherService\obj\Debug\AccuWeatherService.csprojResolveAssemblyReference.cache
